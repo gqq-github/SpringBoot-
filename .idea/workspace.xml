@@ -159,9 +159,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="SpringBoot 从入门到精通" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="200" height="442" key="Git.Branch.Popup" />
-    <state width="200" height="442" key="Git.Branch.Popup/1366.768" />
-    <state width="200" height="442" key="Git.Branch.Popup@1366.768" />
+    <state width="204" height="446" key="Git.Branch.Popup" />
+    <state width="204" height="446" key="Git.Branch.Popup/1366.768" />
+    <state width="204" height="446" key="Git.Branch.Popup@1366.768" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -240,7 +240,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/cn/gq/com/spring/springBoot深入浅出的学习/springbean的生命周期/service/impl/TestServiceImpl.java</url>
           <line>41</line>
-          <properties class="cn.gq.com.spring.springBoot深入浅出的学习.springbean的生命周期.service.impl.TestServiceImpl" method="destroy">
+          <properties class="cn.gq.com.spring.springBoot深入浅出的学习.springbean的生命周期.service.impl.TestServiceImpl">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="51" />
@@ -248,7 +248,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/cn/gq/com/spring/springBoot深入浅出的学习/springbean的生命周期/service/impl/TestServiceImpl.java</url>
           <line>47</line>
-          <properties class="cn.gq.com.spring.springBoot深入浅出的学习.springbean的生命周期.service.impl.TestServiceImpl" method="afterPropertiesSet">
+          <properties class="cn.gq.com.spring.springBoot深入浅出的学习.springbean的生命周期.service.impl.TestServiceImpl">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="52" />
@@ -256,7 +256,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/cn/gq/com/spring/springBoot深入浅出的学习/springbean的生命周期/service/impl/TestServiceImpl.java</url>
           <line>58</line>
-          <properties class="cn.gq.com.spring.springBoot深入浅出的学习.springbean的生命周期.service.impl.TestServiceImpl" method="init">
+          <properties class="cn.gq.com.spring.springBoot深入浅出的学习.springbean的生命周期.service.impl.TestServiceImpl">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="53" />
@@ -264,7 +264,7 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/cn/gq/com/spring/springBoot深入浅出的学习/springbean的生命周期/service/impl/TestServiceImpl.java</url>
           <line>62</line>
-          <properties class="cn.gq.com.spring.springBoot深入浅出的学习.springbean的生命周期.service.impl.TestServiceImpl" method="destroy_I">
+          <properties class="cn.gq.com.spring.springBoot深入浅出的学习.springbean的生命周期.service.impl.TestServiceImpl">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="54" />
